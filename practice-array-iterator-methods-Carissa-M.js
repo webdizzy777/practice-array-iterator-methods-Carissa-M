@@ -15,14 +15,14 @@ Task 1: Using forEach()
 */
 let cities = ["Key West", "Panama City Beach", "New Orleans", "New York", "Kansas City"];
 cities.forEach(city => {
-    console.log(city);
+    console.log(city.toUpperCase());
 });
 //Outpt:
-//Key West
-//Panama City Beach
-//New Orleans
-//New York
-//Kansas City
+//KEY WEST
+//PANAMA CITY BEACH
+//NEW ORLEANS
+//NEW YORK
+//KANSAS CITY
 
 
 /*
